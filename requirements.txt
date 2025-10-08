@@ -1,0 +1,3 @@
+# Dependencias del proyecto CFG → CNF + CYK Parser
+matplotlib==3.9.2
+numpy==1.26.4
